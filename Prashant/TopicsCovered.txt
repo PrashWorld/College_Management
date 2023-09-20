@@ -1,0 +1,22 @@
+Hi sir,
+
+
+
+Update on Learning Progress of Java Programming Masterclass updated to Java 17 Course
+
+
+
+Over the last few days, I have gained the knowledge of following concepts/sections:
+
+
+
+1.Programming Tool Setup - JDK 17  version of Java is used. and IDE used is IntelliJ IDEA. Initially in Course, JShell was used for simple programs and then switched on to IDE.
+2.IntelliJ IDEA basics- helped in getting use to this IDE by writing some simple programs, got  to know about variables , operators etc.
+3.Expressions,Statements and more - In this section, got to know about keywords and expressions , how code can be organised in good way(whitespace),
+If Then Else Control statement and did one challenge regarding the same, got to know and learn about Methods and Method overeloading in Java and did around 10 questions of Coding exercise reggarding the topics learned in thisz section.
+4.Control Flow- Gained the knowledge and implementation of switch statement in JAVA(in two way), For Loop , While and Do While loop and some practice questions on them. Also learned about the local variables and scope.
+ Also this section introduced the concept of The Class, Object , static and instance variables and methods and Reading input using System.console and important Concept of Scanner and did questions practice of topics.
+5.OOPs Part 1 Inheritance-(Ongoing) Till now in this section, gained the knowledge about the concept of The Classes using getter and setter methods and creating objects and difference between static and instance variables and methods
+ 
+
+   
